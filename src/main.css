@@ -1,0 +1,19 @@
+*{
+box-sizing:border-box;
+position:relative;
+outline:none;
+margin:0 auto;
+padding:0 auto;
+}
+body{
+overflow:hidden;
+}
+:root{
+font-family:sans-serif,verdana,arial;
+font-size:16px;
+font-weight:400;
+
+--text:#333;
+--fore:#eee;
+--back:#fff;
+}
